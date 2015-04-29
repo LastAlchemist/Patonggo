@@ -1,0 +1,338 @@
+fileFormatVersion: 2
+guid: 80a436c506a0e3d48bc11445c9344839
+timeCreated: 1428556505
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: ApaeMad_0
+    21300002: ApaeMad_1
+    21300004: ApaeMad_2
+    21300006: ApaeMad_3
+    21300008: ApaeMad_4
+    21300010: ApaeMad_5
+    21300012: ApaeMad_6
+    21300014: ApaeMad_7
+    21300016: ApaeMad_8
+    21300018: ApaeMad_9
+    21300020: ApaeMad_10
+    21300022: ApaeMad_11
+    21300024: ApaeMad_12
+    21300026: ApaeMad_13
+    21300028: ApaeMad_14
+    21300030: ApaeMad_15
+    21300032: ApaeMad_16
+    21300034: ApaeMad_17
+    21300036: ApaeMad_18
+    21300038: ApaeMad_19
+    21300040: ApaeMad_20
+    21300042: ApaeMad_21
+    21300044: ApaeMad_22
+    21300046: ApaeMad_23
+    21300048: ApaeMad_24
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    compressionQuality: 50
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    compressionQuality: 100
+  spriteSheet:
+    sprites:
+    - name: ApaeMad_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 3373
+        width: 590
+        height: 576
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ApaeMad_1
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 3373
+        width: 588
+        height: 580
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ApaeMad_2
+      rect:
+        serializedVersion: 2
+        x: 1297
+        y: 3371
+        width: 586
+        height: 640
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ApaeMad_3
+      rect:
+        serializedVersion: 2
+        x: 1939
+        y: 3371
+        width: 584
+        height: 626
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ApaeMad_4
+      rect:
+        serializedVersion: 2
+        x: 2581
+        y: 3371
+        width: 582
+        height: 608
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ApaeMad_5
+      rect:
+        serializedVersion: 2
+        x: 3223
+        y: 3371
+        width: 578
+        height: 610
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ApaeMad_6
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 2611
+        width: 576
+        height: 616
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ApaeMad_7
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 2611
+        width: 578
+        height: 626
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ApaeMad_8
+      rect:
+        serializedVersion: 2
+        x: 1301
+        y: 2611
+        width: 580
+        height: 636
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ApaeMad_9
+      rect:
+        serializedVersion: 2
+        x: 1941
+        y: 2611
+        width: 582
+        height: 646
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ApaeMad_10
+      rect:
+        serializedVersion: 2
+        x: 2579
+        y: 2611
+        width: 584
+        height: 658
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ApaeMad_11
+      rect:
+        serializedVersion: 2
+        x: 3217
+        y: 2609
+        width: 586
+        height: 670
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ApaeMad_12
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1849
+        width: 590
+        height: 676
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ApaeMad_13
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 1849
+        width: 590
+        height: 694
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ApaeMad_14
+      rect:
+        serializedVersion: 2
+        x: 1297
+        y: 1849
+        width: 586
+        height: 710
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ApaeMad_15
+      rect:
+        serializedVersion: 2
+        x: 1939
+        y: 1849
+        width: 584
+        height: 694
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ApaeMad_16
+      rect:
+        serializedVersion: 2
+        x: 2579
+        y: 1849
+        width: 584
+        height: 678
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ApaeMad_17
+      rect:
+        serializedVersion: 2
+        x: 3221
+        y: 1849
+        width: 582
+        height: 694
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ApaeMad_18
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1089
+        width: 578
+        height: 710
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ApaeMad_19
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 1089
+        width: 576
+        height: 694
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ApaeMad_20
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 1089
+        width: 578
+        height: 678
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ApaeMad_21
+      rect:
+        serializedVersion: 2
+        x: 1941
+        y: 1089
+        width: 582
+        height: 694
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ApaeMad_22
+      rect:
+        serializedVersion: 2
+        x: 2579
+        y: 1089
+        width: 584
+        height: 710
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ApaeMad_23
+      rect:
+        serializedVersion: 2
+        x: 3217
+        y: 1091
+        width: 586
+        height: 664
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ApaeMad_24
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 333
+        width: 590
+        height: 576
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

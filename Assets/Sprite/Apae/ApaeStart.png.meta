@@ -1,0 +1,334 @@
+fileFormatVersion: 2
+guid: 01d196a8633732540a7b0593e6b29640
+timeCreated: 1429782809
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: ApaeStart_0
+    21300002: ApaeStart_1
+    21300004: ApaeStart_2
+    21300006: ApaeStart_3
+    21300008: ApaeStart_4
+    21300010: ApaeStart_5
+    21300012: ApaeStart_6
+    21300014: ApaeStart_7
+    21300016: ApaeStart_8
+    21300018: ApaeStart_9
+    21300020: ApaeStart_10
+    21300022: ApaeStart_11
+    21300024: ApaeStart_12
+    21300026: ApaeStart_13
+    21300028: ApaeStart_14
+    21300030: ApaeStart_15
+    21300032: ApaeStart_16
+    21300034: ApaeStart_17
+    21300036: ApaeStart_18
+    21300038: ApaeStart_19
+    21300040: ApaeStart_20
+    21300042: ApaeStart_21
+    21300044: ApaeStart_22
+    21300046: ApaeStart_23
+    21300048: ApaeStart_24
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 4096
+    textureFormat: -1
+    compressionQuality: 100
+  spriteSheet:
+    sprites:
+    - name: ApaeStart_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 3409
+        width: 642
+        height: 524
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ApaeStart_1
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 3409
+        width: 642
+        height: 508
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ApaeStart_2
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 3409
+        width: 642
+        height: 494
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ApaeStart_3
+      rect:
+        serializedVersion: 2
+        x: 1959
+        y: 3409
+        width: 642
+        height: 478
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ApaeStart_4
+      rect:
+        serializedVersion: 2
+        x: 2609
+        y: 3409
+        width: 642
+        height: 462
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ApaeStart_5
+      rect:
+        serializedVersion: 2
+        x: 3259
+        y: 3409
+        width: 642
+        height: 460
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ApaeStart_6
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 2723
+        width: 642
+        height: 458
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ApaeStart_7
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 2723
+        width: 642
+        height: 456
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ApaeStart_8
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 2723
+        width: 642
+        height: 462
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ApaeStart_9
+      rect:
+        serializedVersion: 2
+        x: 1959
+        y: 2723
+        width: 642
+        height: 478
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ApaeStart_10
+      rect:
+        serializedVersion: 2
+        x: 2609
+        y: 2723
+        width: 642
+        height: 494
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ApaeStart_11
+      rect:
+        serializedVersion: 2
+        x: 3259
+        y: 2723
+        width: 642
+        height: 508
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ApaeStart_12
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 2037
+        width: 642
+        height: 524
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ApaeStart_13
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 2037
+        width: 642
+        height: 508
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ApaeStart_14
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 2037
+        width: 642
+        height: 494
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ApaeStart_15
+      rect:
+        serializedVersion: 2
+        x: 1959
+        y: 2037
+        width: 642
+        height: 478
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ApaeStart_16
+      rect:
+        serializedVersion: 2
+        x: 2609
+        y: 2037
+        width: 642
+        height: 462
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ApaeStart_17
+      rect:
+        serializedVersion: 2
+        x: 3259
+        y: 2037
+        width: 642
+        height: 454
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ApaeStart_18
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1351
+        width: 642
+        height: 456
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ApaeStart_19
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 1351
+        width: 642
+        height: 458
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ApaeStart_20
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 1351
+        width: 642
+        height: 462
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ApaeStart_21
+      rect:
+        serializedVersion: 2
+        x: 1959
+        y: 1351
+        width: 642
+        height: 478
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ApaeStart_22
+      rect:
+        serializedVersion: 2
+        x: 2609
+        y: 1351
+        width: 642
+        height: 494
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ApaeStart_23
+      rect:
+        serializedVersion: 2
+        x: 3259
+        y: 1351
+        width: 642
+        height: 508
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ApaeStart_24
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 665
+        width: 642
+        height: 524
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

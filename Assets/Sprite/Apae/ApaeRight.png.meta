@@ -1,0 +1,224 @@
+fileFormatVersion: 2
+guid: 272343e56a0e2f546b7c691c734e2004
+timeCreated: 1427951483
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: ApaeRight_0
+    21300002: ApaeRight_1
+    21300004: ApaeRight_2
+    21300006: ApaeRight_3
+    21300008: ApaeRight_4
+    21300010: ApaeRight_5
+    21300012: ApaeRight_6
+    21300014: ApaeRight_7
+    21300016: ApaeRight_8
+    21300018: ApaeRight_9
+    21300020: ApaeRight_10
+    21300022: ApaeRight_11
+    21300024: ApaeRight_12
+    21300026: ApaeRight_13
+    21300028: ApaeRight_14
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    compressionQuality: 100
+  spriteSheet:
+    sprites:
+    - name: ApaeRight_0
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 1608
+        width: 361
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ApaeRight_1
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 1603
+        width: 363
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ApaeRight_2
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 1598
+        width: 369
+        height: 315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ApaeRight_3
+      rect:
+        serializedVersion: 2
+        x: 1597
+        y: 1592
+        width: 375
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ApaeRight_4
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 1087
+        width: 381
+        height: 326
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ApaeRight_5
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 1083
+        width: 387
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ApaeRight_6
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 1078
+        width: 393
+        height: 335
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ApaeRight_7
+      rect:
+        serializedVersion: 2
+        x: 1573
+        y: 1073
+        width: 399
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ApaeRight_8
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 573
+        width: 393
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ApaeRight_9
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 576
+        width: 387
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ApaeRight_10
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 581
+        width: 381
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ApaeRight_11
+      rect:
+        serializedVersion: 2
+        x: 1597
+        y: 587
+        width: 375
+        height: 326
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ApaeRight_12
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 94
+        width: 369
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ApaeRight_13
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 101
+        width: 363
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ApaeRight_14
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 108
+        width: 361
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
