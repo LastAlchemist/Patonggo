@@ -1,0 +1,312 @@
+fileFormatVersion: 2
+guid: 7b73baa8a75744d6391e3df5fa27afa5
+timeCreated: 1430383447
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: slideLefe_0
+    21300002: slideLefe_1
+    21300004: slideLefe_2
+    21300006: slideLefe_3
+    21300008: slideLefe_4
+    21300010: slideLefe_5
+    21300012: slideLefe_6
+    21300014: slideLefe_7
+    21300016: slideLefe_8
+    21300018: slideLefe_9
+    21300020: slideLefe_10
+    21300022: slideLefe_11
+    21300024: slideLefe_12
+    21300026: slideLefe_13
+    21300028: slideLefe_14
+    21300030: slideLefe_15
+    21300032: slideLefe_16
+    21300034: slideLefe_17
+    21300036: slideLefe_18
+    21300038: slideLefe_19
+    21300040: slideLefe_20
+    21300042: slideLefe_21
+    21300044: slideLefe_22
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -3
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: slideLefe_0
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 1789
+        width: 175
+        height: 178
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slideLefe_1
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1787
+        width: 173
+        height: 183
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slideLefe_2
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 1787
+        width: 177
+        height: 183
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slideLefe_3
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 1787
+        width: 174
+        height: 183
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slideLefe_4
+      rect:
+        serializedVersion: 2
+        x: 1317
+        y: 1789
+        width: 175
+        height: 178
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slideLefe_5
+      rect:
+        serializedVersion: 2
+        x: 1625
+        y: 1787
+        width: 173
+        height: 183
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slideLefe_6
+      rect:
+        serializedVersion: 2
+        x: 1625
+        y: 1478
+        width: 174
+        height: 181
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slideLefe_7
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 1477
+        width: 177
+        height: 183
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slideLefe_8
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 1477
+        width: 174
+        height: 182
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slideLefe_9
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 1479
+        width: 175
+        height: 178
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slideLefe_10
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1478
+        width: 174
+        height: 181
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slideLefe_11
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 1477
+        width: 177
+        height: 183
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slideLefe_12
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 1169
+        width: 175
+        height: 178
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slideLefe_13
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 1167
+        width: 173
+        height: 183
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slideLefe_14
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 1167
+        width: 176
+        height: 183
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slideLefe_15
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 1167
+        width: 174
+        height: 183
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slideLefe_16
+      rect:
+        serializedVersion: 2
+        x: 1317
+        y: 1169
+        width: 175
+        height: 178
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slideLefe_17
+      rect:
+        serializedVersion: 2
+        x: 1626
+        y: 1167
+        width: 173
+        height: 183
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slideLefe_18
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 857
+        width: 177
+        height: 184
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slideLefe_19
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 857
+        width: 173
+        height: 182
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slideLefe_20
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 859
+        width: 175
+        height: 178
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slideLefe_21
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 858
+        width: 174
+        height: 181
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slideLefe_22
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 857
+        width: 177
+        height: 184
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

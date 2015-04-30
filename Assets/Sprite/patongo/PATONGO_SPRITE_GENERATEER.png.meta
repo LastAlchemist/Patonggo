@@ -1,0 +1,334 @@
+fileFormatVersion: 2
+guid: f6c34ecc950ae4813aac4a165f3168e4
+timeCreated: 1430382292
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: PATONGO_SPRITE_GENERATEER_0
+    21300002: PATONGO_SPRITE_GENERATEER_1
+    21300004: PATONGO_SPRITE_GENERATEER_2
+    21300006: PATONGO_SPRITE_GENERATEER_3
+    21300008: PATONGO_SPRITE_GENERATEER_4
+    21300010: PATONGO_SPRITE_GENERATEER_5
+    21300012: PATONGO_SPRITE_GENERATEER_6
+    21300014: PATONGO_SPRITE_GENERATEER_7
+    21300016: PATONGO_SPRITE_GENERATEER_8
+    21300018: PATONGO_SPRITE_GENERATEER_9
+    21300020: PATONGO_SPRITE_GENERATEER_10
+    21300022: PATONGO_SPRITE_GENERATEER_11
+    21300024: PATONGO_SPRITE_GENERATEER_12
+    21300026: PATONGO_SPRITE_GENERATEER_13
+    21300028: PATONGO_SPRITE_GENERATEER_14
+    21300030: PATONGO_SPRITE_GENERATEER_15
+    21300032: PATONGO_SPRITE_GENERATEER_16
+    21300034: PATONGO_SPRITE_GENERATEER_17
+    21300036: PATONGO_SPRITE_GENERATEER_18
+    21300038: PATONGO_SPRITE_GENERATEER_19
+    21300040: PATONGO_SPRITE_GENERATEER_20
+    21300042: PATONGO_SPRITE_GENERATEER_21
+    21300044: PATONGO_SPRITE_GENERATEER_22
+    21300046: PATONGO_SPRITE_GENERATEER_23
+    21300048: PATONGO_SPRITE_GENERATEER_24
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -3
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: PATONGO_SPRITE_GENERATEER_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 843
+        width: 182
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PATONGO_SPRITE_GENERATEER_1
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 843
+        width: 174
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PATONGO_SPRITE_GENERATEER_2
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 843
+        width: 160
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PATONGO_SPRITE_GENERATEER_3
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 843
+        width: 168
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PATONGO_SPRITE_GENERATEER_4
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 843
+        width: 182
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PATONGO_SPRITE_GENERATEER_5
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 663
+        width: 174
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PATONGO_SPRITE_GENERATEER_6
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 663
+        width: 160
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PATONGO_SPRITE_GENERATEER_7
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 662
+        width: 168
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PATONGO_SPRITE_GENERATEER_8
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 663
+        width: 182
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PATONGO_SPRITE_GENERATEER_9
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 663
+        width: 174
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PATONGO_SPRITE_GENERATEER_10
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 482
+        width: 160
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PATONGO_SPRITE_GENERATEER_11
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 482
+        width: 168
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PATONGO_SPRITE_GENERATEER_12
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 482
+        width: 182
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PATONGO_SPRITE_GENERATEER_13
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 481
+        width: 175
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PATONGO_SPRITE_GENERATEER_14
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 482
+        width: 160
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PATONGO_SPRITE_GENERATEER_15
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 301
+        width: 168
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PATONGO_SPRITE_GENERATEER_16
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 300
+        width: 182
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PATONGO_SPRITE_GENERATEER_17
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 300
+        width: 174
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PATONGO_SPRITE_GENERATEER_18
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 300
+        width: 160
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PATONGO_SPRITE_GENERATEER_19
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 300
+        width: 168
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PATONGO_SPRITE_GENERATEER_20
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 119
+        width: 182
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PATONGO_SPRITE_GENERATEER_21
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 119
+        width: 174
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PATONGO_SPRITE_GENERATEER_22
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 119
+        width: 160
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PATONGO_SPRITE_GENERATEER_23
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 119
+        width: 168
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PATONGO_SPRITE_GENERATEER_24
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 119
+        width: 182
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

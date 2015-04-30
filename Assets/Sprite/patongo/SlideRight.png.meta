@@ -1,0 +1,312 @@
+fileFormatVersion: 2
+guid: 933c7ab74d9484cdaa746d5f8012f26e
+timeCreated: 1430383637
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: SlideRight_0
+    21300002: SlideRight_1
+    21300004: SlideRight_2
+    21300006: SlideRight_3
+    21300008: SlideRight_4
+    21300010: SlideRight_5
+    21300012: SlideRight_6
+    21300014: SlideRight_7
+    21300016: SlideRight_8
+    21300018: SlideRight_9
+    21300020: SlideRight_10
+    21300022: SlideRight_11
+    21300024: SlideRight_12
+    21300026: SlideRight_13
+    21300028: SlideRight_14
+    21300030: SlideRight_15
+    21300032: SlideRight_16
+    21300034: SlideRight_17
+    21300036: SlideRight_18
+    21300038: SlideRight_19
+    21300040: SlideRight_20
+    21300042: SlideRight_21
+    21300044: SlideRight_22
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -3
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: SlideRight_0
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 1791
+        width: 181
+        height: 189
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SlideRight_1
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 1791
+        width: 177
+        height: 188
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SlideRight_2
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 1793
+        width: 180
+        height: 184
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SlideRight_3
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 1791
+        width: 177
+        height: 188
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SlideRight_4
+      rect:
+        serializedVersion: 2
+        x: 1313
+        y: 1791
+        width: 181
+        height: 189
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SlideRight_5
+      rect:
+        serializedVersion: 2
+        x: 1627
+        y: 1791
+        width: 177
+        height: 188
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SlideRight_6
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 1483
+        width: 180
+        height: 184
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SlideRight_7
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 1481
+        width: 177
+        height: 188
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SlideRight_8
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 1481
+        width: 181
+        height: 189
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SlideRight_9
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 1481
+        width: 177
+        height: 188
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SlideRight_10
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 1483
+        width: 180
+        height: 184
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SlideRight_11
+      rect:
+        serializedVersion: 2
+        x: 1627
+        y: 1481
+        width: 177
+        height: 188
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SlideRight_12
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 1171
+        width: 181
+        height: 189
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SlideRight_13
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 1171
+        width: 177
+        height: 188
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SlideRight_14
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 1173
+        width: 180
+        height: 184
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SlideRight_15
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 1171
+        width: 177
+        height: 188
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SlideRight_16
+      rect:
+        serializedVersion: 2
+        x: 1313
+        y: 1171
+        width: 181
+        height: 189
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SlideRight_17
+      rect:
+        serializedVersion: 2
+        x: 1627
+        y: 1171
+        width: 177
+        height: 188
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SlideRight_18
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 863
+        width: 180
+        height: 184
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SlideRight_19
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 861
+        width: 177
+        height: 188
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SlideRight_20
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 861
+        width: 181
+        height: 189
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SlideRight_21
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 861
+        width: 177
+        height: 188
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SlideRight_22
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 863
+        width: 180
+        height: 184
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
