@@ -1,0 +1,224 @@
+fileFormatVersion: 2
+guid: da7d41a63b23f46cc88dc69ad174001a
+timeCreated: 1430473304
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: ApaeMiddle 1_0
+    21300002: ApaeMiddle 1_1
+    21300004: ApaeMiddle 1_2
+    21300006: ApaeMiddle 1_3
+    21300008: ApaeMiddle 1_4
+    21300010: ApaeMiddle 1_5
+    21300012: ApaeMiddle 1_6
+    21300014: ApaeMiddle 1_7
+    21300016: ApaeMiddle 1_8
+    21300018: ApaeMiddle 1_9
+    21300020: ApaeMiddle 1_10
+    21300022: ApaeMiddle 1_11
+    21300024: ApaeMiddle 1_12
+    21300026: ApaeMiddle 1_13
+    21300028: ApaeMiddle 1_14
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -2
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: ApaeMiddle 1_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1585
+        width: 368
+        height: 454
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ApaeMiddle 1_1
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1579
+        width: 370
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ApaeMiddle 1_2
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 1573
+        width: 370
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ApaeMiddle 1_3
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 1567
+        width: 370
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ApaeMiddle 1_4
+      rect:
+        serializedVersion: 2
+        x: 1515
+        y: 1561
+        width: 368
+        height: 478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ApaeMiddle 1_5
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1069
+        width: 368
+        height: 484
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ApaeMiddle 1_6
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1063
+        width: 368
+        height: 490
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ApaeMiddle 1_7
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 1057
+        width: 368
+        height: 496
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ApaeMiddle 1_8
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 1063
+        width: 368
+        height: 490
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ApaeMiddle 1_9
+      rect:
+        serializedVersion: 2
+        x: 1513
+        y: 1069
+        width: 370
+        height: 484
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ApaeMiddle 1_10
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 571
+        width: 368
+        height: 478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ApaeMiddle 1_11
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 577
+        width: 370
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ApaeMiddle 1_12
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 583
+        width: 370
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ApaeMiddle 1_13
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 589
+        width: 368
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ApaeMiddle 1_14
+      rect:
+        serializedVersion: 2
+        x: 1515
+        y: 595
+        width: 368
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

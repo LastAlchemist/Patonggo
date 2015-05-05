@@ -32,7 +32,7 @@ public class BoxCollision : MonoBehaviour
         {
             iTween.MoveTo(overScene, new Vector3(0, 0, -6), 0.3f);
             playingSound.Stop();
-            overSound.Play(22050);
+            overSound.Play(0);
             apaeLaughterSound.Play(0);
             boxScript.mainSprite.transform.position = new Vector3(boxScript.mainSprite.transform.position.x, -6.0f, boxScript.mainSprite.transform.position.z);
         }

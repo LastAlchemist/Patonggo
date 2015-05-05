@@ -14,20 +14,19 @@ public class RandomObs : MonoBehaviour
 	float speed =   8.0f;
 	int	passCount,createCount;
     Main mainScript;
-    float time = 5.0f;
+	float time;
     bool starting;
 	
 	void Start () 
 	{
         starting = false;
-
+		time = 5.0f;
         main = GameObject.Find("Main");
         mainScript = main.GetComponent<Main>();
 	}
 
 	void Update () 
 	{
-        Debug.Log(mainScript.backingToMain());
         if(starting == false)
         {
             time -= Time.deltaTime;
