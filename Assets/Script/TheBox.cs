@@ -10,7 +10,7 @@ public class TheBox : MonoBehaviour
     public AudioSource slideSound, splitSound, backSplitSound;
 
     GameObject obstract;
-    RandomObs obScript;
+	RandomApae obScript;
 
     GameObject mainPause;
     Main mainScript;
@@ -23,7 +23,7 @@ public class TheBox : MonoBehaviour
 	void Start () 
 	{
         obstract = GameObject.Find("Main");
-        obScript = obstract.GetComponent<RandomObs>();
+        obScript = obstract.GetComponent<RandomApae>();
 
         mainPause = GameObject.Find("Main");
         mainScript = mainPause.GetComponent<Main>();

@@ -145,6 +145,7 @@ public class RandomObs : MonoBehaviour
 		}
 
 	}
+
 	void GenerateObstract()
 	{
 		if (active1 == true) 
@@ -179,6 +180,7 @@ public class RandomObs : MonoBehaviour
 			}
 		}
 	}
+
 	void scramble()
 	{
 		int scrambleNum = Random.Range(0,4);
@@ -204,6 +206,7 @@ public class RandomObs : MonoBehaviour
         createCount += 1;
 		active1 = true;
 	}
+
 	void scramble2()
 	{
 		int scrambleNum2 = Random.Range(0,4);
@@ -229,6 +232,7 @@ public class RandomObs : MonoBehaviour
         createCount += 1;
 		active2 = true;
 	}
+
 	void scramble3()
 	{
 		int scrambleNum3 = Random.Range(0,4);

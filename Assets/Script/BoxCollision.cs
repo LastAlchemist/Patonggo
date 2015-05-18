@@ -7,7 +7,7 @@ public class BoxCollision : MonoBehaviour
     GameObject theBox, obstract;
 
     TheBox boxScript;
-    RandomObs obScript;
+	RandomApae obScript;
 
     public AudioSource playingSound, overSound, apaeLaughterSound;
 
@@ -16,12 +16,8 @@ public class BoxCollision : MonoBehaviour
         theBox = GameObject.Find("TheBox");
         boxScript = theBox.GetComponent<TheBox>();
 
-       
-
         obstract = GameObject.Find("Main");
-        obScript = obstract.GetComponent<RandomObs>();
-
-
+        obScript = obstract.GetComponent<RandomApae>();
 
         apaeLaughterSound.Play(0);
         boxScript.isAlive(true);
@@ -47,9 +43,9 @@ public class BoxCollision : MonoBehaviour
 
             boxScript.isAlive(false);
             obScript.readyDeploy = false;
-            obScript.active1 = false;
-            obScript.active2 = false;
-            obScript.active3 = false;
+            //obScript.active1 = false;
+            //obScript.active2 = false;
+            //obScript.active3 = false;
             iTween.MoveTo(boxScript.mainSprite, new Vector3(0, -6.5f, 0), 1.0f);
             iTween.MoveTo(boxScript.boxLeft, new Vector3(boxScript.boxLeft.transform.position.x, -6.5f, 0), 1.0f);
             iTween.MoveTo(boxScript.boxRight, new Vector3(boxScript.boxRight.transform.position.x, -6.5f, 0), 1.0f);
